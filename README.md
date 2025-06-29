@@ -1,4 +1,6 @@
 # WindTurbineDataSprint
+![Wind_Error](WindAgenda.png)
+
 Data sprint collaboration during DA bootcamp assigned simultaneously with capstone in order to highlight problems that may occur in real work scenarios where you are given multiple high priority projects simultaneously. Students were given the responsibility of assigning tasks, accepting tasks, giving updates, and creating a final presentation.
 
 While all queries were performed using SQL and Python, the final presentation was given through powerpoint with screen captures of visuals created in PowerBI or Tableau for reference.
